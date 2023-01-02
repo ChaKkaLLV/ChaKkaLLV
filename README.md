@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=ChaKkaLLV&label=Github%20views&color=30223f&style=flat" alt="ChaKkaLLV" />
+<p>
+💬 Ask me about : 
+  
+  - French developer
+  
+  - Scambaiter
+  
+  - Actually learning SysAdmin & Network
+</p>
 
-<!--
-**ChaKkaLLV/ChaKkaLLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can contact me here **whatisyouin@protonmail.com** 
