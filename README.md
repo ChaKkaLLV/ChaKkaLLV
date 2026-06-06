@@ -52,6 +52,20 @@ Mostly **TypeScript** & **Python** — agentic AI, full-stack apps, and the infr
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaKkaLLV&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true" alt="activity graph" width="95%" />
 
+<!-- METRICS_START : décommenter une fois le secret METRICS_TOKEN configuré -->
+<!-- <img src="https://raw.githubusercontent.com/ChaKkaLLV/ChaKkaLLV/main/github-metrics.svg" alt="metrics" width="95%" /> -->
+<!-- METRICS_END -->
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                       SNAKE CONTRIBUTIONS                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ChaKkaLLV/ChaKkaLLV/output/snake-dark.svg" alt="snake eating contributions" width="95%" />
+
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
